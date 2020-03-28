@@ -12,3 +12,6 @@ Madison did not immediately dispute Hamilton's list, but provided his own list f
 Statistical analysis has been undertaken on several occasions in attempts to accurately identify the author of each individual essay. After examining word choice and writing style, studies generally agree that the disputed essays were written by James Madison. However, there are notable exceptions maintaining that some of the essays which are now widely attributed to Madison were, in fact, collaborative efforts
 
 Adapted from https://en.wikipedia.org/wiki/The_Federalist_Papers#Disputed_essays
+
+## Essays are from :
+https://avalon.law.yale.edu/subject_menus/fed.asp
